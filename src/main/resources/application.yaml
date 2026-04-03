@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: What to Eat
+server:
+  port: ${PORT:8080}
